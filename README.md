@@ -1,4 +1,5 @@
 ### sandbox
+Getting Started Now with GitHub and Play with the Flow
 
 # How to use GitHub.
 
@@ -8,5 +9,3 @@
 4. when approaching a new version, stabilize and validate the development branch
 5. merge the development branch into the master
 6. set a release tag and create a release
-
-
